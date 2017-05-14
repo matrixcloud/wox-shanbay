@@ -1,0 +1,12 @@
+{
+   "ID":"a9d300b4-370d-11e7-a919-92ebcb67fe33", 
+   "ActionKeyword":"sb",                  
+   "Name":"Shanbay",                    
+   "Description":"Shanbay",
+   "Author":"atom",                        
+   "Version":"1.0.0",                         
+   "Language":"python",                      
+   "Website":"http://www.getwox.com",        
+   "IcoPath": "Images\\logo.png",            
+   "ExecuteFileName":"main.py" 
+ }
