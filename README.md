@@ -19,6 +19,10 @@ wox的扇贝插件，主要用于查词，添加单词到词库
 
 ```access_token=RPAKq1pZgTvIqmyXoaYFypFSiOUuZY&token_type=Bearer&state=123&expires_in=2592000&scope=read+write```
 
+## 注意
+
+如果你使用自定义的python路径，请安装requests库``` pip install requests ```
+
 ## 感谢
 
 - [xinshangshangxin](https://github.com/xinshangshangxin)
